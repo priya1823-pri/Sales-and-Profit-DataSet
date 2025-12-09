@@ -1,6 +1,6 @@
 # Sales-and-Profit-DataSet
 
-The Sales & Profit Analysis Report is a visually rich Power BI dashboard designed to provide a comprehensive overview of business performance across product categories, customer segments, geographic regions, and time periods. It empowers stakeholders to monitor profitability, identify growth opportunities, and make data-driven decisions with ease.
+The Sales & Profit Analysis Report is a visually rich Excel dashboard designed to provide a comprehensive overview of business performance across product categories, customer segments, geographic regions, and time periods. It empowers stakeholders to monitor profitability, identify growth opportunities, and make data-driven decisions with ease.
 
 # 🔍 Key Highlights:
 - 💰 Total Sales & Profit: ₹1.92M in both sales and profit, offering a high-level snapshot of performance.
