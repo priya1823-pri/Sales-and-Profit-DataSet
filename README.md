@@ -1,5 +1,7 @@
 # Sales-and-Profit-DataSet
 
+<img width="1230" height="618" alt="Image" src="https://github.com/user-attachments/assets/2f19b908-1050-4666-b801-e1d81cdca5db" />
+
 The Sales & Profit Analysis Report is a visually rich Excel dashboard designed to provide a comprehensive overview of business performance across product categories, customer segments, geographic regions, and time periods. It empowers stakeholders to monitor profitability, identify growth opportunities, and make data-driven decisions with ease.
 
 # 🔍 Key Highlights:
